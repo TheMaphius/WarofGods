@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\KinectSensor.cs">
+    <Files>
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectImgControllers\DisplayColor.cs" Line="59" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectImgControllers\DisplayDepth.cs" Line="53" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectModelControllers\KinectModelControllerV2.cs" Line="293" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectModelControllers\KinectPointController.cs" Line="117" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\DeviceOrEmulator.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\KinectEmulator.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\KinectInterop.cs" Line="485" Column="45" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\KinectRecorder.cs" Line="69" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\SkeletonWrapper.cs" Line="220" Column="1" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\DepthWrapper.cs" Line="57" Column="2" />
+      <File FileName="..\..\..\..\Downloads\Kinect1.7UnityWrapper\Kinect1.7UnityProject\Assets\Script\Kinect\KinectWrapper\KinectSensor.cs" Line="146" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
